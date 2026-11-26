@@ -1,0 +1,8 @@
+{
+  "runtime": "typescript",
+  "platformVersion": 31,
+  "entry": "client/dist/index.html",
+  "name": "AI Chatbot",
+  "slug": "ai-chatbot",
+  "managedCronJobs": []
+}
